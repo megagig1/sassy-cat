@@ -1,1 +1,22 @@
 <!DOCTYPE html>
+<head>
+        <meta charset="UTF-8">
+        <meta name="description" content="frontend mentor placecard project">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Victor Crest placecard</title>
+    <link rel="stylesheet" href="placecard.css"/>
+</head>
+<body>
+    <div>
+        <img>
+        <h2>Victor Crest</h2>
+        <h3>London</h3>
+    </div>
+    <div>
+        <ul>
+            <li>80K</li>
+            <li>809K</li>
+            <li>1.4K</li>
+        </ul>
+    </div>
+</body>
